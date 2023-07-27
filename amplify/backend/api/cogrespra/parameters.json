@@ -1,0 +1,11 @@
+{
+  "AppSyncApiName": "cogrespra",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authcogrespra7476e4f3",
+      "Outputs.UserPoolId"
+    ]
+  }
+}

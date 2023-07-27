@@ -1,0 +1,23 @@
+{
+  "main": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cogrespra-main-110357-authRole",
+      "UnauthRoleArn": "arn:aws:iam::693825121436:role/amplify-cogrespra-main-110357-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::693825121436:role/amplify-cogrespra-main-110357-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-cogrespra-main-110357-deployment",
+      "UnauthRoleName": "amplify-cogrespra-main-110357-unauthRole",
+      "StackName": "amplify-cogrespra-main-110357",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:693825121436:stack/amplify-cogrespra-main-110357/d9698c20-2c21-11ee-8aa1-0ac1309dec59",
+      "AmplifyAppId": "d3q1c3hvl8r731"
+    },
+    "categories": {
+      "auth": {
+        "cogrespra7476e4f3": {}
+      },
+      "api": {
+        "cogrespra": {}
+      }
+    }
+  }
+}
